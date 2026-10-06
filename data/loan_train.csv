@@ -1,0 +1,501 @@
+loan_amount,term,interest_rate,loan_grade,employment_length,home_ownership,annual_income,application_date,loan_purpose,dti,credit_score,months_since_last_delinq,verification_status,loan_status
+11800,36 months,8.09,B,6 years,RENT,61716,2021-06-12,debt_consolidation,9.99,752,,Verified,0
+5000,36 months,16.92,G,10+ years,MORTGAGE,24721,2024-11-14,debt_consolidation,31.47,609,45.0,Source Verified,1
+2500,36 months,16.7,G,10+ years,RENT,29006,2024-04-10,medical,13.75,554,73.0,Source Verified,1
+27900,36 months,12.0,D,1 year,MORTGAGE,209657,2023-03-13,car,26.36,681,,Source Verified,1
+5800,36 months,13.61,E,4 years,MORTGAGE,32018,2023-03-02,debt_consolidation,18.54,736,,Not Verified,0
+8000,36 months,9.91,B,9 years,RENT,35558,2025-04-17,debt_consolidation,14.7,792,16.0,Source Verified,0
+20800,36 months,9.09,B,2 years,MORTGAGE,178518,2021-06-06,education,3.54,709,21.0,Not Verified,0
+40000,60 months,16.47,F,4 years,RENT,250000,2024-06-27,home_improvement,16.63,651,20.0,Verified,1
+11700,36 months,9.66,C,,RENT,34125,2022-01-03,home_improvement,5.52,617,8.0,Not Verified,0
+15100,36 months,16.08,F,2 years,MORTGAGE,53083,2021-06-21,debt_consolidation,25.74,676,74.0,Not Verified,1
+15100,36 months,14.56,E,7 years,OWN,78433,2023-08-20,debt_consolidation,30.13,656,,Not Verified,1
+27400,60 months,16.92,F,,RENT,168203,2025-11-17,debt_consolidation,11.62,609,33.0,Source Verified,1
+6300,60 months,7.11,A,8 years,MORTGAGE,37774,2024-09-05,car,20.42,808,,Source Verified,0
+15400,36 months,,A,10+ years,RENT,56797,2024-10-21,debt_consolidation,12.2,791,,Verified,0
+16300,36 months,8.81,B,5 years,MORTGAGE,99676,2024-08-03,debt_consolidation,12.97,749,18.0,Source Verified,0
+11200,36 months,16.99,F,3 years,MORTGAGE,82559,2024-12-06,car,24.2,615,39.0,Not Verified,0
+6300,60 months,6.71,A,< 1 year,MORTGAGE,52852,2023-07-27,education,17.69,731,57.0,Not Verified,0
+9100,36 months,14.39,F,2 years,MORTGAGE,60388,2021-08-22,car,31.92,717,19.0,Source Verified,0
+11600,36 months,14.47,E,4 years,RENT,30514,2025-03-14,credit_card,14.14,704,8.0,Verified,0
+11700,60 months,14.93,E,2 years,MORTGAGE,57019,2023-04-03,credit_card,25.99,756,,Source Verified,0
+8900,36 months,10.98,C,< 1 year,MORTGAGE,56141,2023-07-03,credit_card,18.78,716,18.0,Verified,0
+25000,36 months,12.62,D,2 years,MORTGAGE,73853,2022-11-09,debt_consolidation,24.37,723,17.0,Verified,0
+12700,36 months,11.85,D,9 years,RENT,47892,2021-11-30,credit_card,14.42,716,12.0,Verified,0
+16400,36 months,11.39,D,8 years,MORTGAGE,84245,2025-08-20,credit_card,17.6,697,7.0,Not Verified,0
+20700,36 months,,G,10+ years,RENT,113452,2024-11-28,home_improvement,17.08,559,10.0,Verified,0
+7700,36 months,10.83,C,10+ years,RENT,70801,2024-03-21,medical,11.31,680,15.0,Verified,0
+13800,60 months,17.64,G,7 years,RENT,78874,2023-01-05,education,23.3,639,38.0,Verified,1
+19300,60 months,19.31,G,1 year,MORTGAGE,66928,2025-02-11,debt_consolidation,23.2,592,48.0,Not Verified,1
+14200,36 months,7.92,B,7 years,MORTGAGE,65003,2023-09-23,credit_card,22.75,784,26.0,Source Verified,0
+15900,36 months,9.82,C,< 1 year,RENT,43708,2023-03-21,debt_consolidation,30.3,787,,Verified,0
+13000,36 months,15.84,E,5 years,MORTGAGE,77359,2023-04-03,credit_card,29.59,763,16.0,Verified,0
+12600,36 months,13.07,D,5 years,MORTGAGE,61613,2022-02-19,debt_consolidation,15.0,692,,Source Verified,0
+31100,60 months,10.04,C,,MORTGAGE,205538,2021-06-18,debt_consolidation,20.98,763,58.0,Verified,0
+34000,36 months,14.49,E,3 years,MORTGAGE,154429,2023-10-10,car,13.01,676,14.0,Source Verified,0
+18800,36 months,10.55,C,9 years,MORTGAGE,80367,2025-06-10,credit_card,18.19,688,31.0,Source Verified,0
+5100,36 months,15.45,G,10+ years,MORTGAGE,42722,2021-04-27,education,13.2,604,,Not Verified,0
+5300,36 months,15.29,F,10+ years,OWN,35253,2025-04-17,debt_consolidation,30.96,701,68.0,Verified,0
+35200,36 months,18.15,G,8 years,MORTGAGE,125150,2025-02-20,debt_consolidation,20.91,679,41.0,Source Verified,1
+19700,36 months,13.84,E,7 years,MORTGAGE,75106,2022-05-21,credit_card,16.26,590,,Verified,0
+22300,60 months,14.45,E,< 1 year,MORTGAGE,84645,2024-02-28,debt_consolidation,27.55,672,34.0,Not Verified,0
+5000,36 months,9.93,B,10+ years,MORTGAGE,24900,2021-10-29,debt_consolidation,1.0,670,,Not Verified,0
+27200,60 months,6.88,A,7 years,RENT,108254,2024-10-16,education,1.89,792,14.0,Not Verified,0
+22300,36 months,13.14,E,3 years,MORTGAGE,83456,2024-07-03,debt_consolidation,24.37,733,,Source Verified,1
+11100,60 months,12.52,D,4 years,MORTGAGE,35292,2022-10-10,debt_consolidation,18.48,676,12.0,Verified,1
+11200,36 months,13.87,E,,OWN,50152,2021-05-05,credit_card,20.0,691,32.0,Not Verified,0
+19500,36 months,10.24,C,8 years,MORTGAGE,75146,2025-11-08,credit_card,7.39,678,18.0,Not Verified,0
+31300,60 months,15.91,F,6 years,MORTGAGE,66903,2023-03-25,home_improvement,17.81,662,,Verified,1
+12700,36 months,20.44,G,8 years,OWN,55351,2025-06-19,credit_card,34.03,605,36.0,Source Verified,1
+8100,36 months,15.96,G,5 years,MORTGAGE,61404,2024-05-22,medical,24.59,665,12.0,Source Verified,1
+13300,36 months,17.81,G,6 years,RENT,56588,2024-11-22,debt_consolidation,19.36,627,,Not Verified,1
+18100,36 months,18.2,G,3 years,RENT,70689,2024-10-19,credit_card,14.49,594,,Source Verified,1
+40000,36 months,9.62,C,5 years,RENT,146015,2021-12-22,home_improvement,14.84,708,,Source Verified,0
+2000,36 months,9.7,B,9 years,RENT,18000,2022-10-27,medical,1.0,700,40.0,Source Verified,0
+9000,60 months,19.01,G,< 1 year,MORTGAGE,57061,2023-05-03,credit_card,20.06,559,,Verified,0
+16300,36 months,16.15,F,10+ years,MORTGAGE,71627,2023-06-28,credit_card,24.76,667,17.0,Verified,1
+24300,36 months,6.93,A,3 years,MORTGAGE,76492,2021-03-21,debt_consolidation,5.4,740,69.0,Verified,0
+20400,36 months,7.09,A,9 years,RENT,52976,2023-09-26,debt_consolidation,12.71,744,66.0,Not Verified,0
+4200,60 months,7.1,A,8 years,MORTGAGE,24734,2021-10-09,debt_consolidation,8.74,742,32.0,Source Verified,0
+12100,36 months,10.32,C,9 years,RENT,77850,2024-09-19,car,10.28,678,23.0,Source Verified,0
+40000,36 months,16.01,F,8 years,OWN,168078,2024-06-01,debt_consolidation,18.43,620,,Verified,1
+6200,36 months,12.45,D,10+ years,RENT,27960,2025-08-12,car,1.32,605,12.0,Verified,0
+16800,36 months,12.95,D,6 years,MORTGAGE,104532,2024-09-21,debt_consolidation,22.91,697,,Source Verified,1
+12400,60 months,14.97,F,10+ years,RENT,54255,2022-11-01,medical,24.03,700,,Verified,0
+2000,36 months,6.15,A,10+ years,MORTGAGE,62844,2025-11-02,medical,15.99,759,8.0,Verified,0
+12200,60 months,7.05,B,3 years,RENT,36426,2023-01-21,debt_consolidation,1.0,746,,Not Verified,0
+16100,36 months,11.27,C,3 years,MORTGAGE,54078,2022-08-18,debt_consolidation,10.03,666,,Verified,0
+34500,36 months,18.45,G,5 years,RENT,132875,2025-07-12,debt_consolidation,27.86,594,6.0,Source Verified,0
+11500,36 months,9.31,B,3 years,OWN,89555,2022-11-08,medical,1.0,654,,Source Verified,0
+40000,36 months,7.37,B,4 years,MORTGAGE,168538,2021-05-20,debt_consolidation,15.22,689,,Not Verified,0
+19700,36 months,10.58,B,5 years,MORTGAGE,124209,2023-05-08,credit_card,8.56,662,23.0,Verified,0
+22300,36 months,17.59,G,8 years,MORTGAGE,82755,2024-12-23,credit_card,24.44,637,17.0,Not Verified,0
+21100,36 months,7.37,A,2 years,OWN,169618,2021-12-12,car,12.6,691,5.0,Not Verified,0
+20200,36 months,,G,10+ years,RENT,82751,2023-04-26,credit_card,21.23,642,,Source Verified,0
+27000,36 months,17.21,G,5 years,RENT,102492,2021-08-26,credit_card,22.52,634,20.0,Source Verified,0
+2000,36 months,15.65,F,10+ years,RENT,55217,2024-06-07,education,32.69,695,35.0,Not Verified,0
+9500,36 months,14.38,E,1 year,RENT,67423,2023-05-19,debt_consolidation,16.38,649,,Source Verified,1
+6400,36 months,,E,6 years,MORTGAGE,44292,2022-08-26,medical,21.01,691,,Source Verified,1
+16100,36 months,7.5,A,< 1 year,OWN,112018,2022-02-19,debt_consolidation,6.12,693,,Source Verified,0
+5400,36 months,19.81,G,9 years,OWN,33999,2023-10-28,credit_card,27.52,601,23.0,Verified,1
+13800,36 months,11.61,C,4 years,MORTGAGE,99951,2024-05-08,medical,11.92,644,,Verified,0
+23900,36 months,7.57,A,10+ years,MORTGAGE,58529,2025-09-13,home_improvement,13.51,768,15.0,Source Verified,0
+36700,36 months,13.21,E,4 years,MORTGAGE,123788,2023-03-10,home_improvement,17.82,599,25.0,Verified,0
+19600,36 months,17.26,F,,OWN,98235,2021-10-21,debt_consolidation,5.5,537,,Source Verified,0
+40000,36 months,16.7,G,3 years,RENT,176928,2025-03-01,credit_card,19.83,554,87.0,Source Verified,1
+16800,36 months,15.8,E,8 years,MORTGAGE,97156,2024-02-24,credit_card,25.74,677,,Not Verified,0
+4700,36 months,10.6,C,6 years,MORTGAGE,27379,2024-07-02,credit_card,20.34,677,,Verified,0
+13800,60 months,6.15,B,4 years,RENT,62650,2021-06-27,credit_card,5.29,667,16.0,Source Verified,0
+2000,36 months,8.46,B,2 years,MORTGAGE,34117,2022-07-25,debt_consolidation,17.01,754,19.0,Source Verified,0
+15900,60 months,18.85,G,1 year,OWN,48878,2024-11-03,debt_consolidation,23.94,501,41.0,Verified,0
+40000,36 months,8.56,B,1 year,OWN,149241,2025-02-28,debt_consolidation,2.98,701,30.0,Verified,0
+9000,36 months,7.92,A,10+ years,OWN,92299,2023-03-06,credit_card,9.4,776,,Verified,0
+16000,36 months,17.35,G,5 years,MORTGAGE,44255,2025-01-09,debt_consolidation,25.01,602,54.0,Verified,0
+3000,36 months,12.89,E,< 1 year,RENT,37220,2025-03-17,medical,20.16,650,,Verified,0
+18600,60 months,16.13,F,10+ years,RENT,66183,2022-12-09,home_improvement,21.3,626,37.0,Source Verified,1
+4400,36 months,18.23,G,< 1 year,MORTGAGE,33291,2025-06-28,debt_consolidation,32.88,617,17.0,Source Verified,0
+17700,60 months,17.85,G,5 years,MORTGAGE,44937,2022-06-11,home_improvement,21.75,654,,Verified,0
+12800,36 months,8.43,A,10+ years,MORTGAGE,77169,2022-03-14,medical,23.26,768,49.0,Verified,0
+30400,60 months,15.35,F,10+ years,MORTGAGE,122708,2024-05-31,debt_consolidation,39.69,794,18.0,Verified,0
+19700,60 months,14.51,E,10+ years,RENT,90850,2024-03-08,debt_consolidation,16.29,653,22.0,Source Verified,1
+4300,36 months,7.27,A,6 years,MORTGAGE,18434,2021-09-13,debt_consolidation,11.62,799,,Verified,0
+24100,36 months,16.64,G,10+ years,RENT,76845,2025-03-01,debt_consolidation,21.42,677,,Source Verified,1
+10500,36 months,7.48,B,< 1 year,RENT,67627,2022-01-01,car,21.51,789,,Verified,0
+17600,36 months,10.41,C,10+ years,RENT,81616,2025-01-09,education,13.79,669,,Verified,0
+38400,60 months,14.18,D,10+ years,RENT,158112,2021-01-14,debt_consolidation,9.74,684,59.0,Not Verified,0
+2600,36 months,16.78,F,10+ years,MORTGAGE,20897,2024-12-26,car,36.48,699,,Verified,1
+14100,36 months,5.47,A,3 years,MORTGAGE,46959,2024-12-07,debt_consolidation,20.61,850,,Verified,0
+25400,36 months,5.0,A,1 year,RENT,89962,2024-11-25,home_improvement,12.14,730,35.0,Verified,0
+2000,36 months,14.93,E,9 years,MORTGAGE,27235,2024-04-29,car,25.33,629,,Not Verified,1
+40000,60 months,12.1,D,6 years,MORTGAGE,146373,2023-05-12,credit_card,17.13,738,47.0,Source Verified,0
+10000,36 months,15.34,E,6 years,RENT,79598,2024-07-11,debt_consolidation,15.98,651,20.0,Source Verified,1
+25700,60 months,17.32,G,10+ years,RENT,103545,2022-05-22,home_improvement,22.5,643,,Not Verified,1
+5400,60 months,9.15,B,8 years,RENT,47483,2024-11-26,education,7.66,734,15.0,Verified,0
+24200,36 months,13.05,D,4 years,MORTGAGE,101693,2023-10-12,debt_consolidation,20.82,677,,Not Verified,0
+39100,36 months,17.75,G,5 years,RENT,116985,2023-04-18,debt_consolidation,33.3,693,19.0,Verified,1
+10400,36 months,13.77,E,1 year,RENT,73882,2023-07-13,debt_consolidation,21.73,676,17.0,Source Verified,1
+18800,36 months,10.43,C,2 years,RENT,73944,2023-11-05,credit_card,14.99,697,25.0,Source Verified,0
+21400,36 months,12.74,D,1 year,MORTGAGE,75420,2021-03-10,home_improvement,13.94,703,9.0,Source Verified,0
+13500,60 months,18.19,G,10+ years,RENT,40429,2021-09-13,car,14.72,549,43.0,Not Verified,1
+14600,36 months,9.77,B,10+ years,MORTGAGE,59934,2022-03-25,car,15.97,718,17.0,Verified,0
+13800,60 months,15.74,F,7 years,RENT,59770,2021-07-29,medical,14.98,611,,Not Verified,1
+15900,60 months,16.87,G,4 years,MORTGAGE,80259,2023-03-14,car,25.33,581,,Verified,0
+29700,60 months,12.38,C,9 years,MORTGAGE,112651,2024-05-05,debt_consolidation,4.13,671,17.0,Source Verified,0
+4900,36 months,17.6,G,10+ years,MORTGAGE,36314,2024-04-09,credit_card,24.9,680,9.0,Not Verified,0
+17600,36 months,15.63,F,10+ years,RENT,60681,2023-05-11,debt_consolidation,14.96,630,9.0,Verified,1
+37100,36 months,7.13,A,7 years,MORTGAGE,146817,2025-04-11,debt_consolidation,21.02,729,12.0,Not Verified,1
+7000,36 months,14.27,E,10+ years,OWN,43182,2023-10-30,education,8.98,588,,Source Verified,0
+5300,36 months,17.81,G,6 years,RENT,41353,2021-05-25,home_improvement,28.63,649,,Source Verified,0
+12800,36 months,18.18,G,6 years,RENT,72650,2024-10-28,education,27.97,637,23.0,Verified,1
+13700,36 months,14.16,E,10+ years,OWN,103420,2023-11-16,credit_card,25.68,672,,Source Verified,0
+15700,36 months,8.97,B,5 years,MORTGAGE,65410,2024-03-04,credit_card,5.88,693,36.0,Source Verified,0
+19000,36 months,,G,5 years,RENT,135006,2023-10-30,credit_card,24.63,609,5.0,Source Verified,1
+18200,36 months,14.08,D,3 years,RENT,104128,2023-10-08,debt_consolidation,21.24,722,19.0,Verified,1
+31800,36 months,8.65,B,6 years,MORTGAGE,103274,2021-06-15,debt_consolidation,5.16,679,17.0,Verified,0
+25900,60 months,18.78,G,7 years,MORTGAGE,88160,2023-10-19,credit_card,17.81,552,54.0,Not Verified,1
+40000,36 months,16.82,G,9 years,MORTGAGE,233830,2024-12-22,debt_consolidation,20.92,548,19.0,Verified,1
+12200,60 months,13.73,E,5 years,OWN,58064,2022-07-10,education,22.45,674,,Source Verified,1
+3800,60 months,13.53,E,2 years,MORTGAGE,21595,2024-01-06,debt_consolidation,19.42,661,7.0,Not Verified,0
+40000,36 months,13.67,D,10+ years,RENT,157076,2021-02-26,debt_consolidation,20.33,668,12.0,Verified,0
+10400,36 months,15.61,F,4 years,MORTGAGE,50534,2022-09-27,car,29.79,673,,Verified,0
+18100,36 months,14.96,E,10+ years,RENT,68973,2023-03-09,debt_consolidation,27.81,690,24.0,Source Verified,1
+18500,36 months,6.55,A,2 years,RENT,133572,2025-11-30,medical,1.0,737,55.0,Verified,0
+3900,36 months,17.75,G,7 years,RENT,26927,2022-01-27,car,15.46,603,,Source Verified,1
+9800,36 months,17.95,G,,RENT,32654,2022-05-20,debt_consolidation,16.68,599,19.0,Source Verified,0
+9700,60 months,15.48,E,10+ years,MORTGAGE,26942,2023-01-16,home_improvement,3.98,604,11.0,Source Verified,0
+9500,60 months,8.51,C,1 year,RENT,41998,2025-12-18,home_improvement,18.75,694,14.0,Verified,0
+21700,60 months,14.88,F,10+ years,MORTGAGE,82780,2025-04-08,car,27.99,756,,Source Verified,0
+13100,36 months,6.85,B,7 years,MORTGAGE,86721,2021-03-05,medical,9.31,647,72.0,Source Verified,1
+9000,36 months,17.11,G,7 years,MORTGAGE,75667,2022-03-04,car,20.69,512,54.0,Verified,0
+9900,60 months,17.39,G,6 years,MORTGAGE,29885,2025-02-09,home_improvement,10.67,564,64.0,Source Verified,1
+2000,36 months,12.59,E,< 1 year,MORTGAGE,18244,2021-04-17,debt_consolidation,12.62,621,,Not Verified,0
+10600,36 months,15.47,F,6 years,MORTGAGE,66972,2025-04-12,home_improvement,29.82,639,,Source Verified,1
+7100,36 months,12.19,E,3 years,RENT,50145,2022-05-29,education,13.66,648,17.0,Source Verified,1
+10500,36 months,11.18,D,4 years,MORTGAGE,83684,2025-08-03,home_improvement,21.7,678,13.0,Verified,0
+16700,36 months,10.0,B,8 years,MORTGAGE,95628,2022-06-21,home_improvement,3.03,655,,Verified,0
+18600,36 months,14.6,E,6 years,RENT,70135,2023-03-05,credit_card,32.9,743,,Verified,1
+13700,36 months,12.39,D,1 year,RENT,98737,2024-04-23,car,22.82,631,56.0,Verified,0
+11400,36 months,17.2,G,< 1 year,RENT,73733,2021-08-19,education,16.54,619,55.0,Not Verified,0
+26000,36 months,10.66,D,2 years,MORTGAGE,87001,2023-10-15,debt_consolidation,22.6,706,89.0,Verified,0
+5000,36 months,13.06,E,2 years,RENT,44116,2023-07-12,debt_consolidation,6.72,575,26.0,Not Verified,0
+12100,36 months,14.16,E,8 years,RENT,58886,2024-12-02,credit_card,27.46,700,8.0,Verified,0
+10600,60 months,13.07,D,2 years,MORTGAGE,72430,2025-12-24,credit_card,15.41,682,33.0,Verified,1
+21000,36 months,11.3,C,10+ years,OWN,102072,2024-04-28,credit_card,16.37,665,,Source Verified,0
+7000,36 months,7.83,A,2 years,RENT,52344,2023-01-18,debt_consolidation,14.07,778,61.0,Verified,0
+24900,60 months,13.46,E,1 year,OWN,86577,2023-01-13,credit_card,13.35,635,,Not Verified,1
+12400,36 months,8.82,B,10+ years,RENT,56158,2023-02-03,home_improvement,23.56,809,9.0,Not Verified,0
+21000,60 months,13.88,E,3 years,OWN,60931,2025-01-26,home_improvement,20.05,660,,Not Verified,1
+17400,36 months,16.0,F,5 years,OWN,102578,2022-08-10,home_improvement,23.21,592,13.0,Verified,0
+2000,36 months,14.24,D,10+ years,RENT,21719,2021-11-01,car,17.93,680,15.0,Not Verified,0
+7000,36 months,12.44,E,10+ years,MORTGAGE,31859,2022-09-03,home_improvement,22.11,605,,Verified,1
+4500,36 months,11.97,D,10+ years,OWN,28766,2021-02-11,car,14.65,626,36.0,Not Verified,0
+8300,60 months,17.41,F,< 1 year,OWN,18009,2021-07-13,home_improvement,35.84,701,,Source Verified,1
+6500,60 months,8.93,C,8 years,OWN,44761,2021-06-14,credit_card,5.46,711,24.0,Verified,1
+18600,60 months,17.56,G,10+ years,MORTGAGE,98158,2024-11-09,home_improvement,28.09,635,6.0,Verified,1
+14900,60 months,13.67,E,10+ years,RENT,55573,2024-08-12,debt_consolidation,28.94,739,,Verified,0
+17000,36 months,10.18,C,1 year,MORTGAGE,72470,2024-06-26,debt_consolidation,11.18,750,12.0,Verified,0
+39900,60 months,12.6,E,5 years,MORTGAGE,118328,2023-04-24,credit_card,35.83,768,5.0,Not Verified,1
+27000,36 months,14.8,E,4 years,MORTGAGE,134911,2024-08-02,medical,25.96,709,,Not Verified,0
+26600,60 months,12.87,D,1 year,RENT,62575,2021-10-22,home_improvement,25.77,764,6.0,Not Verified,0
+23600,36 months,16.71,F,9 years,MORTGAGE,136846,2025-07-03,debt_consolidation,18.22,553,16.0,Verified,1
+18500,36 months,9.53,C,3 years,RENT,68378,2023-07-04,home_improvement,16.26,654,25.0,Source Verified,0
+15600,60 months,18.29,G,4 years,MORTGAGE,41010,2025-09-09,debt_consolidation,16.32,619,,Verified,1
+4700,60 months,15.3,F,1 year,RENT,46874,2021-10-06,car,21.12,683,12.0,Source Verified,1
+3100,36 months,15.87,F,6 years,MORTGAGE,28792,2023-06-28,medical,29.21,638,,Verified,1
+7400,36 months,14.35,D,2 years,MORTGAGE,39882,2024-06-25,home_improvement,19.45,664,14.0,Verified,0
+13100,36 months,7.3,A,5 years,MORTGAGE,53382,2023-06-25,home_improvement,10.71,797,6.0,Source Verified,0
+38700,60 months,11.01,D,1 year,MORTGAGE,101125,2023-03-26,debt_consolidation,24.6,664,57.0,Verified,0
+27000,36 months,12.38,D,10+ years,RENT,167471,2021-10-31,credit_card,25.37,702,,Source Verified,0
+8400,36 months,10.85,D,1 year,OWN,30392,2022-11-27,medical,23.24,660,,Source Verified,0
+12700,36 months,15.0,F,6 years,MORTGAGE,80676,2022-03-12,car,23.96,680,63.0,Verified,1
+6100,36 months,13.16,E,2 years,RENT,36675,2022-07-05,credit_card,15.83,675,,Not Verified,1
+10800,36 months,6.76,A,< 1 year,RENT,84392,2024-06-02,credit_card,10.57,704,8.0,Source Verified,0
+10900,36 months,8.14,A,2 years,RENT,60479,2024-02-25,debt_consolidation,11.05,751,11.0,Not Verified,0
+5700,60 months,7.78,A,< 1 year,MORTGAGE,23745,2024-01-14,debt_consolidation,4.92,782,7.0,Source Verified,0
+16500,60 months,12.72,D,,OWN,108305,2022-10-23,debt_consolidation,19.9,695,,Source Verified,0
+11500,60 months,7.7,B,6 years,MORTGAGE,46602,2025-10-19,credit_card,17.33,713,,Source Verified,0
+10700,36 months,17.66,G,9 years,RENT,48460,2021-06-10,education,14.48,600,25.0,Not Verified,0
+7000,36 months,9.07,B,1 year,MORTGAGE,36090,2022-09-18,credit_card,1.0,669,37.0,Source Verified,0
+11100,36 months,8.17,B,5 years,RENT,45356,2021-08-04,debt_consolidation,8.02,736,,Verified,0
+21500,60 months,11.92,D,,MORTGAGE,82247,2022-09-11,debt_consolidation,26.97,731,,Verified,0
+22400,36 months,12.64,D,,RENT,58575,2025-10-23,debt_consolidation,12.68,689,,Source Verified,0
+12000,36 months,10.05,C,4 years,MORTGAGE,77879,2022-10-31,medical,20.88,733,4.0,Verified,0
+11400,60 months,9.03,B,< 1 year,OWN,79316,2025-07-18,credit_card,6.87,707,,Verified,0
+20100,36 months,15.79,E,2 years,RENT,134391,2023-06-23,car,29.51,753,,Verified,0
+11900,60 months,8.63,B,6 years,MORTGAGE,53831,2024-07-01,car,16.85,694,13.0,Source Verified,0
+4900,36 months,17.38,F,10+ years,OWN,28850,2023-04-16,debt_consolidation,20.32,652,,Verified,0
+18200,36 months,18.76,G,10+ years,RENT,116905,2022-05-01,home_improvement,36.61,697,,Source Verified,1
+12300,36 months,16.73,G,10+ years,RENT,54167,2024-10-27,education,30.13,485,30.0,Not Verified,1
+18300,36 months,7.7,B,5 years,MORTGAGE,119991,2025-11-05,credit_card,15.55,700,42.0,Not Verified,0
+18200,60 months,17.37,G,1 year,RENT,80258,2022-04-27,debt_consolidation,13.25,480,,Verified,1
+4400,36 months,15.35,F,4 years,RENT,60477,2024-11-22,education,15.4,563,2.0,Source Verified,0
+11500,36 months,12.11,D,3 years,MORTGAGE,78745,2022-04-22,medical,22.08,704,,Source Verified,0
+40000,60 months,12.81,D,< 1 year,MORTGAGE,190080,2024-08-02,credit_card,17.16,706,,Source Verified,0
+31700,36 months,17.46,F,1 year,RENT,203716,2024-12-11,credit_card,14.84,599,44.0,Source Verified,0
+20700,60 months,18.51,G,5 years,RENT,67528,2023-04-01,debt_consolidation,29.74,629,40.0,Verified,1
+12100,36 months,6.75,A,4 years,MORTGAGE,70987,2024-09-07,medical,17.09,764,21.0,Not Verified,0
+25000,60 months,16.12,G,2 years,MORTGAGE,117486,2022-05-13,credit_card,36.4,644,14.0,Verified,1
+15400,36 months,7.27,A,10+ years,MORTGAGE,40824,2021-05-25,debt_consolidation,18.73,821,,Not Verified,0
+16400,36 months,14.23,E,4 years,MORTGAGE,78068,2021-06-26,home_improvement,32.28,675,5.0,Source Verified,0
+7300,36 months,14.38,E,10+ years,OWN,64082,2023-03-28,education,20.86,702,15.0,Verified,0
+18400,36 months,10.91,B,3 years,MORTGAGE,77249,2025-07-07,medical,25.7,780,,Not Verified,0
+16500,36 months,15.44,E,7 years,RENT,41101,2021-08-21,debt_consolidation,12.2,684,22.0,Verified,0
+7700,36 months,12.99,D,2 years,OWN,27116,2023-04-13,debt_consolidation,11.17,610,,Not Verified,0
+3500,36 months,13.24,E,6 years,MORTGAGE,20785,2024-07-09,education,21.68,668,7.0,Source Verified,1
+5000,60 months,15.69,F,2 years,RENT,35157,2022-01-05,education,25.91,673,44.0,Verified,1
+9500,36 months,14.11,E,2 years,RENT,50507,2024-08-10,credit_card,18.32,586,,Verified,0
+22400,36 months,11.42,D,8 years,MORTGAGE,55320,2022-07-13,home_improvement,7.71,658,29.0,Not Verified,0
+40000,60 months,14.7,E,3 years,RENT,188645,2025-01-16,credit_card,7.12,627,,Verified,0
+19700,36 months,9.16,B,2 years,RENT,119424,2023-11-24,credit_card,6.58,735,43.0,Not Verified,0
+12100,60 months,7.71,B,10+ years,RENT,38292,2023-09-26,debt_consolidation,3.86,677,,Not Verified,0
+19000,60 months,15.4,E,,MORTGAGE,78699,2021-11-19,debt_consolidation,18.88,657,,Source Verified,0
+7400,60 months,16.3,F,,RENT,51961,2023-04-26,debt_consolidation,27.0,668,,Verified,0
+13300,60 months,12.47,E,7 years,MORTGAGE,55589,2025-04-14,medical,17.89,690,6.0,Source Verified,0
+21300,36 months,7.15,A,3 years,RENT,71975,2021-02-05,debt_consolidation,1.0,715,,Not Verified,0
+23700,36 months,16.48,F,5 years,RENT,91371,2024-10-17,debt_consolidation,16.47,610,29.0,Verified,0
+11600,36 months,19.17,G,1 year,MORTGAGE,53936,2023-06-19,credit_card,16.7,607,,Verified,0
+33300,60 months,17.86,G,10+ years,RENT,116688,2024-08-06,debt_consolidation,34.77,747,12.0,Verified,0
+8000,36 months,13.03,D,2 years,MORTGAGE,34685,2024-04-26,debt_consolidation,6.34,648,,Source Verified,0
+24300,60 months,16.39,F,2 years,RENT,65227,2023-03-01,credit_card,14.87,583,,Not Verified,1
+40000,36 months,12.88,E,4 years,RENT,250000,2022-07-18,credit_card,31.65,704,16.0,Source Verified,1
+23000,36 months,8.98,C,10+ years,RENT,73485,2024-02-20,home_improvement,21.6,705,94.0,Source Verified,0
+18300,36 months,19.32,G,10+ years,MORTGAGE,142973,2021-09-14,education,22.51,576,14.0,Verified,1
+12900,36 months,13.4,D,10+ years,RENT,68356,2023-12-03,debt_consolidation,18.92,690,30.0,Verified,1
+7600,36 months,9.12,B,9 years,MORTGAGE,89462,2021-06-22,education,20.64,723,39.0,Verified,0
+8000,36 months,15.7,E,9 years,RENT,63001,2024-04-01,medical,24.22,699,41.0,Not Verified,0
+6800,60 months,8.26,A,6 years,MORTGAGE,59185,2024-02-23,medical,11.52,716,16.0,Source Verified,0
+13200,36 months,18.88,G,,MORTGAGE,42337,2021-06-04,home_improvement,25.02,584,33.0,Verified,1
+30500,36 months,,A,6 years,RENT,82356,2024-10-15,home_improvement,7.02,697,30.0,Not Verified,0
+8200,36 months,15.93,E,4 years,MORTGAGE,40692,2023-01-30,home_improvement,20.63,655,34.0,Verified,0
+20400,36 months,16.74,F,8 years,RENT,93734,2024-12-07,home_improvement,19.43,644,25.0,Verified,0
+36200,36 months,11.81,D,7 years,RENT,118072,2021-03-17,debt_consolidation,13.07,732,39.0,Verified,0
+11600,36 months,9.73,C,1 year,RENT,79518,2021-11-24,education,17.82,771,27.0,Not Verified,0
+22300,60 months,7.46,A,5 years,MORTGAGE,55532,2023-06-22,home_improvement,13.02,792,8.0,Source Verified,0
+9400,36 months,5.53,A,4 years,OWN,83435,2021-12-10,car,9.43,760,26.0,Source Verified,0
+4900,36 months,11.1,C,10+ years,RENT,54851,2022-08-26,credit_card,15.17,668,28.0,Verified,0
+17900,36 months,6.25,A,4 years,MORTGAGE,108738,2024-04-21,debt_consolidation,9.17,698,38.0,Verified,0
+8200,36 months,10.77,C,10+ years,MORTGAGE,23739,2021-09-21,credit_card,20.58,725,25.0,Source Verified,0
+10500,60 months,8.28,B,5 years,RENT,54044,2024-05-22,credit_card,8.8,683,66.0,Verified,0
+5200,36 months,13.94,E,10+ years,MORTGAGE,21746,2021-07-08,credit_card,23.7,683,21.0,Not Verified,1
+6400,60 months,6.44,A,1 year,MORTGAGE,28563,2021-11-16,debt_consolidation,8.55,729,,Not Verified,0
+22300,36 months,10.24,C,10+ years,OWN,137622,2023-12-10,debt_consolidation,13.47,671,54.0,Source Verified,0
+27900,36 months,12.29,C,6 years,OWN,106350,2024-12-19,credit_card,13.0,628,,Not Verified,0
+5600,36 months,19.59,G,3 years,RENT,43758,2021-11-08,credit_card,28.6,648,,Not Verified,1
+2000,36 months,10.75,C,3 years,MORTGAGE,28446,2022-07-02,education,20.64,716,28.0,Source Verified,0
+3000,60 months,16.17,F,3 years,MORTGAGE,18000,2025-08-17,debt_consolidation,16.31,675,27.0,Source Verified,0
+13700,36 months,15.04,E,4 years,RENT,48205,2025-12-13,debt_consolidation,21.99,697,34.0,Not Verified,0
+40000,60 months,8.33,A,10+ years,RENT,246070,2023-11-28,debt_consolidation,1.14,719,,Verified,0
+12700,60 months,,E,10+ years,OWN,82564,2023-03-28,credit_card,17.65,651,14.0,Not Verified,0
+14700,36 months,12.12,D,9 years,RENT,47781,2022-09-26,credit_card,33.98,724,9.0,Verified,1
+22600,36 months,10.38,D,7 years,MORTGAGE,83947,2024-01-24,home_improvement,19.06,700,10.0,Source Verified,0
+2000,36 months,19.32,G,5 years,MORTGAGE,27546,2023-12-16,education,18.54,595,50.0,Not Verified,1
+17700,36 months,16.27,E,10+ years,RENT,55194,2022-06-23,debt_consolidation,22.39,769,,Source Verified,0
+20500,60 months,16.28,F,10+ years,MORTGAGE,68655,2021-02-11,home_improvement,25.16,642,,Source Verified,1
+15500,36 months,10.07,D,,OWN,61994,2021-10-04,debt_consolidation,2.02,567,,Source Verified,0
+20500,60 months,12.81,D,10+ years,MORTGAGE,100417,2025-10-17,debt_consolidation,4.54,607,,Verified,0
+20100,36 months,17.3,G,5 years,RENT,78566,2023-02-03,credit_card,19.68,609,,Verified,1
+25800,36 months,11.54,D,10+ years,RENT,93875,2023-05-31,debt_consolidation,12.28,678,,Verified,0
+18700,36 months,16.83,F,10+ years,OWN,44513,2023-05-03,home_improvement,28.5,657,,Source Verified,1
+35800,36 months,16.45,F,10+ years,RENT,106504,2024-11-30,home_improvement,15.48,653,,Source Verified,0
+20200,60 months,6.71,A,2 years,MORTGAGE,159222,2021-04-29,car,2.52,715,,Verified,0
+8600,36 months,9.75,C,7 years,RENT,38123,2021-06-01,credit_card,7.86,697,6.0,Not Verified,1
+10500,60 months,10.53,C,1 year,RENT,39891,2022-05-19,home_improvement,1.0,696,,Verified,0
+29800,60 months,11.79,D,10+ years,OWN,135513,2023-06-08,credit_card,16.13,702,25.0,Source Verified,0
+20900,60 months,9.29,C,3 years,MORTGAGE,58507,2024-05-10,debt_consolidation,16.49,715,,Source Verified,0
+37000,36 months,17.87,G,9 years,OWN,140680,2023-06-16,debt_consolidation,14.6,538,,Verified,1
+6800,60 months,16.54,F,10+ years,RENT,50958,2023-03-17,home_improvement,26.63,651,,Not Verified,0
+20900,36 months,18.02,G,2 years,MORTGAGE,144700,2025-09-09,education,27.59,533,32.0,Source Verified,1
+19800,60 months,10.79,D,5 years,MORTGAGE,69875,2021-10-22,debt_consolidation,16.64,677,,Verified,0
+22700,36 months,11.39,C,,MORTGAGE,74919,2023-11-10,credit_card,1.0,675,45.0,Not Verified,0
+22000,36 months,9.46,D,5 years,RENT,153697,2023-09-18,car,22.94,743,,Not Verified,0
+5400,36 months,8.35,B,2 years,MORTGAGE,53272,2023-05-15,medical,22.44,752,48.0,Source Verified,0
+10300,36 months,13.58,E,< 1 year,RENT,38736,2025-01-14,credit_card,20.48,688,,Not Verified,1
+13700,36 months,16.35,F,5 years,MORTGAGE,50789,2022-05-03,home_improvement,25.85,642,,Not Verified,1
+18700,60 months,9.36,B,8 years,OWN,83360,2025-10-08,home_improvement,8.68,707,10.0,Verified,0
+7400,36 months,19.33,G,7 years,RENT,27473,2022-08-29,medical,34.07,641,,Source Verified,1
+35200,60 months,11.49,D,2 years,RENT,92296,2023-09-23,debt_consolidation,10.32,675,,Source Verified,0
+6200,36 months,12.79,D,5 years,RENT,48331,2023-08-09,education,23.99,739,30.0,Verified,0
+36900,60 months,12.4,D,4 years,RENT,122203,2025-04-01,debt_consolidation,4.5,639,,Verified,0
+4400,60 months,8.69,C,3 years,RENT,18000,2023-03-13,medical,10.56,727,,Verified,0
+11900,36 months,,E,10+ years,MORTGAGE,42173,2022-06-04,debt_consolidation,30.13,719,21.0,Source Verified,0
+7100,60 months,14.76,F,3 years,RENT,25709,2021-02-09,debt_consolidation,15.91,613,,Not Verified,0
+13800,60 months,10.82,C,7 years,MORTGAGE,41263,2022-10-27,debt_consolidation,24.72,738,13.0,Not Verified,1
+9600,60 months,16.59,F,10+ years,RENT,74485,2025-02-17,credit_card,19.9,720,9.0,Verified,0
+19400,36 months,10.68,C,7 years,RENT,58898,2021-01-19,debt_consolidation,17.16,682,48.0,Verified,0
+10900,36 months,17.71,G,8 years,RENT,56545,2025-06-25,debt_consolidation,28.91,625,,Source Verified,1
+15000,60 months,15.03,E,< 1 year,MORTGAGE,59551,2023-09-19,credit_card,16.11,619,30.0,Source Verified,0
+14900,36 months,10.64,D,2 years,MORTGAGE,72693,2021-09-14,credit_card,3.75,640,34.0,Not Verified,0
+4200,60 months,8.73,B,1 year,RENT,37326,2022-07-06,car,11.57,710,,Not Verified,0
+10000,36 months,15.64,F,10+ years,MORTGAGE,95885,2023-10-09,medical,22.41,613,35.0,Not Verified,0
+37200,60 months,9.72,C,10+ years,MORTGAGE,93583,2022-07-31,home_improvement,21.16,703,31.0,Not Verified,0
+24100,36 months,14.63,E,2 years,RENT,80331,2021-07-18,debt_consolidation,5.46,594,14.0,Not Verified,0
+12200,36 months,9.88,B,2 years,OWN,88277,2024-05-01,debt_consolidation,12.21,662,,Source Verified,1
+12100,60 months,11.86,D,4 years,RENT,76510,2024-05-12,education,13.35,682,,Verified,0
+40000,60 months,7.98,A,8 years,RENT,199074,2021-08-06,debt_consolidation,15.08,834,16.0,Verified,0
+17300,60 months,16.25,F,8 years,MORTGAGE,61960,2022-05-29,credit_card,6.99,585,23.0,Source Verified,0
+8800,60 months,7.91,B,9 years,RENT,54899,2022-03-22,education,12.97,771,,Verified,0
+2000,36 months,8.54,B,10+ years,RENT,42946,2024-04-19,education,12.17,685,,Verified,0
+8300,36 months,13.9,E,3 years,MORTGAGE,36842,2024-08-26,credit_card,24.17,702,44.0,Not Verified,1
+9700,36 months,11.5,D,9 years,RENT,32784,2024-08-20,home_improvement,24.47,683,,Verified,1
+6000,36 months,12.63,D,7 years,MORTGAGE,39867,2025-09-11,credit_card,16.83,704,,Not Verified,0
+7500,36 months,10.63,C,3 years,OWN,62522,2024-11-04,car,14.86,665,27.0,Not Verified,0
+18500,60 months,10.61,D,,MORTGAGE,78120,2022-08-09,debt_consolidation,19.12,770,,Source Verified,0
+14400,36 months,12.55,E,1 year,MORTGAGE,66854,2021-07-16,debt_consolidation,11.47,645,,Source Verified,1
+6100,36 months,7.62,A,10+ years,MORTGAGE,42663,2024-01-28,home_improvement,8.83,749,,Verified,0
+21200,36 months,9.58,C,10+ years,OWN,106643,2025-07-31,debt_consolidation,10.48,633,21.0,Source Verified,0
+15600,36 months,12.5,D,10+ years,RENT,97618,2025-11-16,home_improvement,12.92,671,,Verified,0
+10200,36 months,14.98,E,6 years,RENT,59536,2022-02-25,credit_card,8.69,605,25.0,Not Verified,0
+7600,36 months,9.13,C,4 years,MORTGAGE,45390,2022-03-08,medical,19.3,705,18.0,Verified,0
+6900,36 months,10.79,D,10+ years,MORTGAGE,87884,2021-03-10,medical,23.84,769,61.0,Verified,0
+17300,36 months,10.47,B,10+ years,RENT,72080,2021-09-15,credit_card,5.3,670,25.0,Source Verified,0
+3100,60 months,14.55,E,6 years,MORTGAGE,29310,2023-10-11,car,18.2,662,22.0,Source Verified,0
+17600,36 months,17.78,G,10+ years,RENT,62615,2023-09-26,debt_consolidation,16.24,603,,Source Verified,1
+14200,36 months,15.27,F,3 years,OWN,75076,2022-11-09,credit_card,20.73,660,18.0,Source Verified,1
+6900,36 months,17.69,G,7 years,RENT,39629,2022-07-20,debt_consolidation,17.9,571,9.0,Verified,0
+13600,36 months,11.01,D,10+ years,RENT,72154,2025-02-24,medical,6.37,616,39.0,Source Verified,0
+2000,36 months,8.08,A,4 years,RENT,29202,2023-04-21,medical,7.9,690,54.0,Verified,0
+22100,60 months,8.02,B,6 years,RENT,135543,2025-01-15,medical,18.24,761,,Verified,0
+12800,36 months,9.89,B,10+ years,RENT,129122,2025-10-25,medical,26.23,850,47.0,Verified,0
+8400,36 months,10.0,C,10+ years,RENT,56571,2022-08-03,education,1.0,637,,Verified,0
+8500,36 months,9.36,C,10+ years,RENT,79383,2022-01-06,debt_consolidation,20.77,768,73.0,Verified,0
+3800,60 months,17.77,G,5 years,RENT,18000,2025-10-06,education,27.52,691,,Source Verified,1
+6100,36 months,7.78,C,10+ years,RENT,34412,2024-03-05,credit_card,16.78,665,9.0,Verified,0
+14900,36 months,12.08,D,2 years,RENT,55302,2022-06-16,credit_card,22.4,703,9.0,Verified,0
+6300,60 months,12.03,D,6 years,RENT,36043,2024-02-10,credit_card,12.38,679,35.0,Source Verified,0
+18700,36 months,11.22,C,6 years,RENT,96284,2023-07-30,credit_card,17.05,682,,Verified,0
+40000,36 months,12.31,E,10+ years,RENT,194981,2025-07-12,debt_consolidation,5.03,648,4.0,Source Verified,0
+3800,36 months,15.36,E,10+ years,RENT,34030,2022-04-13,debt_consolidation,1.0,584,,Not Verified,0
+9000,36 months,19.02,G,10+ years,RENT,41009,2025-12-16,debt_consolidation,25.54,575,,Source Verified,1
+23500,60 months,13.45,D,8 years,MORTGAGE,73987,2025-09-06,credit_card,10.12,717,21.0,Not Verified,0
+27800,36 months,,B,5 years,OWN,157670,2021-11-26,medical,14.36,657,23.0,Verified,0
+2600,36 months,11.41,C,6 years,OWN,33184,2021-10-28,home_improvement,6.91,636,9.0,Verified,0
+17700,36 months,8.93,C,6 years,MORTGAGE,74542,2023-09-01,credit_card,6.72,676,,Source Verified,0
+33000,36 months,9.51,B,< 1 year,MORTGAGE,176991,2021-03-24,credit_card,16.61,727,35.0,Not Verified,0
+2000,60 months,11.43,D,6 years,RENT,26204,2022-06-30,credit_card,12.16,687,16.0,Not Verified,0
+8900,36 months,10.55,D,10+ years,MORTGAGE,32130,2023-03-06,debt_consolidation,21.02,632,,Verified,0
+5600,60 months,11.08,D,10+ years,MORTGAGE,51491,2025-11-06,medical,21.62,755,24.0,Not Verified,0
+7400,36 months,10.41,C,10+ years,MORTGAGE,48816,2025-12-18,debt_consolidation,20.57,778,31.0,Verified,0
+21000,36 months,11.38,D,5 years,OWN,101628,2021-10-04,car,19.91,707,35.0,Verified,0
+5200,36 months,9.18,B,6 years,MORTGAGE,74240,2025-06-17,car,30.62,738,34.0,Verified,0
+8400,60 months,5.39,A,< 1 year,MORTGAGE,24487,2021-06-16,credit_card,9.46,756,11.0,Not Verified,0
+16600,36 months,8.27,C,5 years,MORTGAGE,86303,2024-09-28,medical,17.56,748,,Verified,0
+17600,36 months,15.57,E,6 years,RENT,47311,2025-03-25,debt_consolidation,27.06,715,,Not Verified,0
+24400,60 months,9.7,B,3 years,OWN,131018,2025-06-15,medical,28.12,714,18.0,Source Verified,0
+9500,36 months,9.35,C,< 1 year,RENT,46026,2022-02-12,car,6.63,709,12.0,Not Verified,0
+5300,36 months,16.2,F,9 years,OWN,45798,2025-06-20,car,15.5,604,16.0,Source Verified,1
+23700,36 months,13.22,D,5 years,MORTGAGE,87532,2021-07-31,home_improvement,28.86,721,20.0,Not Verified,1
+17300,60 months,18.62,G,5 years,RENT,98889,2023-08-06,medical,22.06,587,26.0,Verified,1
+13100,36 months,14.35,E,3 years,MORTGAGE,83166,2023-05-08,education,19.56,623,,Verified,0
+4800,36 months,9.9,B,7 years,RENT,25721,2022-07-31,credit_card,16.26,760,21.0,Source Verified,0
+16800,36 months,8.07,B,5 years,MORTGAGE,87383,2021-02-10,medical,14.93,730,29.0,Verified,0
+7300,36 months,12.23,D,6 years,MORTGAGE,36801,2024-11-10,car,20.31,772,23.0,Verified,0
+10200,36 months,16.18,F,7 years,MORTGAGE,73980,2022-09-05,credit_card,15.98,657,,Verified,0
+2700,36 months,15.93,F,< 1 year,MORTGAGE,29706,2024-04-23,education,17.66,600,,Verified,1
+15700,36 months,13.81,E,10+ years,RENT,83085,2023-01-20,credit_card,18.63,659,,Verified,1
+5500,36 months,12.27,D,< 1 year,RENT,41711,2022-11-14,credit_card,12.58,682,11.0,Verified,0
+11500,60 months,12.23,D,5 years,RENT,32103,2025-06-07,debt_consolidation,22.26,680,18.0,Not Verified,0
+20500,36 months,17.15,G,2 years,RENT,96254,2021-06-22,debt_consolidation,41.31,749,,Verified,1
+7000,36 months,9.6,B,6 years,MORTGAGE,74239,2024-09-07,medical,3.78,652,27.0,Not Verified,0
+6000,60 months,13.22,E,3 years,RENT,46372,2024-09-25,credit_card,20.59,698,11.0,Not Verified,1
+22300,60 months,15.98,F,,RENT,144393,2022-11-25,credit_card,11.92,611,,Verified,1
+14800,36 months,13.9,E,5 years,RENT,51010,2022-04-25,debt_consolidation,22.62,704,12.0,Source Verified,0
+15600,36 months,12.56,D,8 years,MORTGAGE,66158,2021-01-10,credit_card,18.37,675,7.0,Source Verified,0
+16200,36 months,10.08,D,3 years,RENT,75361,2025-09-07,car,24.09,626,,Source Verified,1
+3800,36 months,17.09,F,< 1 year,OWN,46227,2025-09-27,medical,27.4,660,26.0,Verified,0
+22200,36 months,,F,5 years,RENT,84227,2022-03-17,debt_consolidation,19.54,663,6.0,Verified,0
+11700,36 months,19.42,G,7 years,RENT,48472,2021-02-28,credit_card,27.06,657,,Verified,1
+10700,36 months,6.72,A,5 years,MORTGAGE,51831,2021-08-13,credit_card,1.0,790,,Source Verified,0
+28700,36 months,,G,10+ years,RENT,137530,2021-05-04,home_improvement,30.72,669,53.0,Not Verified,0
+6600,36 months,18.11,F,10+ years,RENT,36674,2025-02-26,credit_card,21.0,659,,Source Verified,1
+3900,36 months,17.92,G,10+ years,MORTGAGE,18000,2025-06-17,credit_card,26.62,539,2.0,Source Verified,1
+39700,36 months,17.44,F,3 years,RENT,157654,2021-10-07,credit_card,8.24,617,24.0,Not Verified,0
+40000,60 months,14.24,E,10+ years,RENT,250000,2024-09-25,home_improvement,11.35,658,48.0,Source Verified,1
+16600,60 months,14.62,E,7 years,MORTGAGE,52013,2021-11-24,credit_card,19.17,630,16.0,Verified,1
+5600,36 months,7.27,A,8 years,RENT,22401,2022-11-02,credit_card,17.86,765,9.0,Not Verified,0
+5000,36 months,13.05,D,10+ years,MORTGAGE,54796,2023-12-31,medical,20.26,664,45.0,Verified,0
+12300,36 months,11.51,D,9 years,RENT,55532,2024-08-07,car,26.68,759,50.0,Verified,0
+13100,36 months,7.82,B,10+ years,OWN,58553,2025-05-16,credit_card,3.88,679,,Source Verified,0
+4100,60 months,15.56,F,10+ years,MORTGAGE,35234,2021-03-23,car,25.79,677,,Not Verified,1
+15400,36 months,12.3,D,1 year,OWN,89402,2021-12-25,medical,18.07,669,,Verified,0
+25800,36 months,13.98,E,9 years,MORTGAGE,86736,2022-05-28,debt_consolidation,16.37,675,,Source Verified,0
+2000,36 months,7.91,A,6 years,RENT,28573,2022-07-21,home_improvement,6.23,787,14.0,Verified,0
+27100,36 months,19.5,G,10+ years,MORTGAGE,95483,2025-12-28,debt_consolidation,22.02,524,,Verified,1
+40000,36 months,15.22,F,10+ years,RENT,201012,2024-11-20,car,1.0,545,,Verified,0
+18200,36 months,17.47,G,1 year,MORTGAGE,71448,2022-08-09,debt_consolidation,23.19,640,,Source Verified,1
+20000,60 months,5.76,A,1 year,MORTGAGE,53993,2025-11-10,home_improvement,6.06,676,5.0,Not Verified,0
+20800,36 months,12.43,C,< 1 year,RENT,60117,2023-07-01,debt_consolidation,18.43,720,16.0,Verified,0
+9500,36 months,12.5,D,6 years,OWN,91175,2023-07-04,credit_card,17.05,706,25.0,Verified,1
+6000,36 months,18.68,G,1 year,RENT,25091,2023-03-03,education,27.36,650,26.0,Verified,1
+15600,36 months,7.46,B,10+ years,MORTGAGE,71151,2021-09-20,credit_card,16.57,741,14.0,Verified,0
+9200,36 months,7.2,A,7 years,MORTGAGE,52438,2025-09-03,medical,12.45,742,49.0,Source Verified,0
+10000,36 months,12.71,D,,RENT,179593,2021-01-26,education,13.95,687,,Source Verified,1
+6600,60 months,13.95,E,,MORTGAGE,59062,2021-11-15,medical,28.18,738,42.0,Source Verified,1
+40000,36 months,13.28,D,6 years,MORTGAGE,162670,2022-02-24,debt_consolidation,22.29,693,,Source Verified,0
+2000,36 months,,E,1 year,RENT,35422,2022-05-25,medical,14.91,639,17.0,Source Verified,1
+10300,36 months,11.25,D,10+ years,MORTGAGE,89782,2021-08-29,debt_consolidation,16.11,720,31.0,Verified,0
+22200,36 months,11.18,D,2 years,RENT,77483,2021-02-02,credit_card,5.46,682,,Verified,0
+8400,36 months,13.32,E,1 year,MORTGAGE,40302,2024-05-22,medical,21.11,675,7.0,Not Verified,1
+33800,60 months,8.81,A,2 years,RENT,71662,2025-11-05,home_improvement,3.92,771,,Not Verified,0
+27100,36 months,19.24,G,10+ years,OWN,126630,2021-08-11,credit_card,24.01,516,,Not Verified,1
+9200,36 months,18.06,G,1 year,OWN,54397,2022-06-26,credit_card,19.03,583,,Not Verified,1
+2600,36 months,18.24,G,8 years,RENT,25631,2023-07-14,medical,37.1,598,,Source Verified,1
+13100,36 months,11.38,D,10+ years,RENT,64375,2025-08-21,home_improvement,9.2,651,,Not Verified,1
+5100,36 months,11.29,C,10+ years,MORTGAGE,39569,2024-06-21,credit_card,17.18,658,14.0,Source Verified,0
+11000,36 months,17.82,G,2 years,MORTGAGE,53844,2024-10-31,medical,32.39,577,12.0,Verified,1
+19400,36 months,15.94,F,< 1 year,MORTGAGE,62148,2023-11-28,debt_consolidation,27.53,611,12.0,Verified,1
+10300,36 months,14.81,E,5 years,RENT,25439,2023-02-01,debt_consolidation,12.43,619,12.0,Verified,1
+4100,60 months,8.61,B,2 years,RENT,26730,2021-12-31,home_improvement,19.79,835,,Verified,0
+19900,60 months,11.97,D,9 years,OWN,84735,2025-04-28,education,18.02,792,,Verified,0
+15300,60 months,14.21,E,4 years,MORTGAGE,48759,2025-01-08,debt_consolidation,20.26,648,20.0,Source Verified,1
+5400,60 months,13.0,D,5 years,MORTGAGE,18000,2021-02-15,debt_consolidation,12.41,651,20.0,Not Verified,1
+38500,60 months,17.85,F,1 year,MORTGAGE,100088,2024-07-30,debt_consolidation,17.29,600,6.0,Source Verified,0
+9900,60 months,18.79,G,7 years,OWN,75504,2021-06-04,medical,5.22,551,,Verified,1
+18300,60 months,11.2,C,2 years,RENT,43893,2024-09-11,debt_consolidation,19.08,667,31.0,Not Verified,1
+8800,60 months,16.0,F,9 years,RENT,31505,2025-02-17,credit_card,21.6,610,57.0,Verified,1
+19900,60 months,17.49,G,< 1 year,OWN,102933,2021-08-28,education,16.18,669,,Verified,1
+30500,60 months,16.85,F,10+ years,OWN,78770,2023-03-04,debt_consolidation,5.08,571,,Verified,0
+40000,36 months,16.37,F,,RENT,241005,2021-08-14,credit_card,25.91,625,,Verified,1
+11700,36 months,12.78,E,2 years,RENT,81899,2023-11-02,credit_card,20.92,685,59.0,Verified,0
+7700,36 months,10.07,C,< 1 year,MORTGAGE,80449,2025-08-21,car,12.19,699,31.0,Not Verified,0
+19100,60 months,14.12,E,4 years,RENT,59298,2021-05-28,credit_card,15.76,702,28.0,Not Verified,0
+28500,36 months,17.69,G,2 years,RENT,101861,2022-12-27,credit_card,5.99,589,,Source Verified,1
+38100,60 months,10.28,B,2 years,OWN,91669,2025-11-12,debt_consolidation,9.8,731,17.0,Verified,0
+12400,60 months,14.68,E,10+ years,RENT,129391,2022-07-04,car,13.7,623,14.0,Not Verified,0
+9000,60 months,17.57,F,8 years,MORTGAGE,48797,2021-08-30,car,27.83,716,60.0,Source Verified,0
+18000,36 months,10.66,C,2 years,RENT,51158,2023-06-12,debt_consolidation,12.88,674,19.0,Verified,0
+9800,36 months,16.28,F,7 years,RENT,49943,2023-07-18,credit_card,23.12,586,,Source Verified,1
+7800,60 months,9.46,C,3 years,MORTGAGE,100417,2024-04-25,medical,13.69,654,,Source Verified,0
+40000,60 months,10.41,C,10+ years,RENT,148190,2022-07-27,debt_consolidation,19.98,699,35.0,Source Verified,1
+8700,60 months,8.81,B,< 1 year,MORTGAGE,50503,2025-10-11,debt_consolidation,16.87,715,25.0,Verified,0
+13600,36 months,12.83,E,10+ years,RENT,51458,2023-08-10,credit_card,24.98,666,58.0,Source Verified,1
+15800,36 months,6.66,A,10+ years,OWN,77256,2022-06-08,debt_consolidation,13.72,775,29.0,Verified,1
+9600,36 months,6.88,A,< 1 year,MORTGAGE,56782,2025-10-20,debt_consolidation,5.42,740,,Verified,0
+14700,60 months,7.61,A,2 years,MORTGAGE,109729,2025-08-16,credit_card,6.94,658,,Verified,0
+5800,36 months,9.26,B,5 years,RENT,18839,2023-07-01,debt_consolidation,13.74,724,6.0,Not Verified,0
+9100,60 months,6.62,A,10+ years,RENT,41252,2021-02-15,credit_card,8.01,801,,Verified,0
+20000,60 months,9.27,B,7 years,RENT,42269,2023-12-27,home_improvement,21.28,802,33.0,Verified,0
+4300,36 months,18.02,G,9 years,MORTGAGE,18141,2023-10-11,credit_card,14.27,595,,Verified,0
+10800,36 months,15.33,G,10+ years,RENT,38259,2021-09-28,debt_consolidation,37.0,615,,Not Verified,1
+4300,36 months,6.72,A,10+ years,RENT,39293,2024-03-03,medical,4.1,772,19.0,Source Verified,0
+18200,60 months,19.28,G,6 years,RENT,58194,2025-03-16,debt_consolidation,19.63,606,,Not Verified,1
+16900,36 months,12.52,E,6 years,RENT,119883,2021-07-13,car,8.98,589,22.0,Verified,0
+15300,36 months,12.31,D,10+ years,RENT,56804,2024-08-13,credit_card,14.05,643,42.0,Verified,0
+5000,36 months,13.79,D,3 years,RENT,36872,2021-09-14,car,19.13,702,4.0,Source Verified,0
+22000,36 months,8.04,B,10+ years,RENT,62995,2024-09-29,debt_consolidation,1.0,668,16.0,Verified,0
+24800,60 months,16.2,F,,MORTGAGE,115750,2023-02-05,debt_consolidation,19.89,633,10.0,Not Verified,0
+5700,36 months,16.9,G,2 years,RENT,38001,2021-01-12,credit_card,33.22,631,73.0,Not Verified,1
+3200,36 months,13.83,D,10+ years,RENT,39392,2025-10-31,debt_consolidation,14.37,629,,Source Verified,1
+11700,36 months,18.12,G,4 years,MORTGAGE,88375,2021-10-31,debt_consolidation,20.08,618,,Not Verified,1
+13700,36 months,8.85,B,1 year,MORTGAGE,57544,2023-12-25,car,26.2,823,7.0,Source Verified,0
+16400,36 months,11.75,C,2 years,RENT,92805,2021-11-28,medical,16.69,694,9.0,Verified,0
+23000,60 months,11.06,C,7 years,MORTGAGE,64514,2025-08-31,debt_consolidation,13.35,733,41.0,Source Verified,0
+11500,36 months,7.92,B,10+ years,OWN,95612,2024-09-10,medical,1.0,643,6.0,Verified,0
+8700,36 months,11.55,D,< 1 year,MORTGAGE,36785,2025-01-08,car,23.13,663,22.0,Not Verified,0
+14800,36 months,14.69,E,< 1 year,OWN,64569,2023-02-28,medical,17.09,629,,Verified,0
+14000,36 months,15.58,F,6 years,MORTGAGE,57888,2023-05-04,home_improvement,9.9,503,8.0,Verified,1
+13100,60 months,16.08,G,10+ years,RENT,33303,2024-03-04,home_improvement,19.01,585,,Source Verified,1
+2800,36 months,14.15,E,3 years,RENT,27508,2024-12-03,credit_card,13.33,557,,Verified,1
+32600,60 months,16.72,G,10+ years,MORTGAGE,94779,2025-03-27,home_improvement,13.77,529,15.0,Verified,1
+11600,36 months,19.82,G,10+ years,OWN,53590,2021-02-02,education,22.85,597,13.0,Source Verified,1
+10500,36 months,7.38,A,3 years,MORTGAGE,37045,2024-04-26,debt_consolidation,7.29,761,,Verified,0
+17900,36 months,17.29,G,10+ years,RENT,61651,2021-07-19,debt_consolidation,26.38,672,53.0,Source Verified,1
+26000,36 months,6.5,A,9 years,MORTGAGE,120880,2022-06-10,debt_consolidation,6.82,759,18.0,Verified,0
+3200,60 months,12.31,E,6 years,RENT,18541,2025-02-23,education,12.7,702,28.0,Verified,0
+9800,36 months,15.1,F,5 years,MORTGAGE,28538,2022-04-03,credit_card,33.38,726,22.0,Verified,0
+10500,36 months,19.22,G,10+ years,MORTGAGE,39126,2024-12-25,home_improvement,27.02,616,5.0,Not Verified,1
+9700,36 months,11.03,B,10+ years,MORTGAGE,145189,2023-04-26,medical,18.78,709,18.0,Not Verified,0
+11500,36 months,7.93,A,10+ years,MORTGAGE,75930,2022-03-01,education,10.48,722,,Verified,0
+29800,60 months,12.11,D,,MORTGAGE,99128,2022-09-03,debt_consolidation,13.77,638,,Not Verified,1
+8500,60 months,11.77,D,6 years,MORTGAGE,34719,2023-08-28,car,18.59,711,,Source Verified,1
+7200,36 months,9.44,C,10+ years,MORTGAGE,35115,2024-10-29,medical,18.3,712,,Source Verified,0
+26200,60 months,18.26,F,10+ years,MORTGAGE,83153,2024-01-12,debt_consolidation,17.27,639,27.0,Source Verified,1
+11600,60 months,18.01,G,2 years,MORTGAGE,67117,2025-09-01,car,17.75,602,,Source Verified,1
+14900,36 months,20.32,G,< 1 year,RENT,87899,2025-05-04,credit_card,16.28,598,11.0,Not Verified,1
+20000,36 months,11.79,C,,MORTGAGE,58625,2024-10-07,home_improvement,6.46,681,,Source Verified,0
+19500,36 months,7.06,B,10+ years,RENT,75745,2024-01-07,credit_card,13.87,696,,Source Verified,0
+22700,60 months,15.53,F,3 years,MORTGAGE,70906,2022-06-14,debt_consolidation,25.32,623,4.0,Verified,0
+23800,60 months,13.53,E,10+ years,MORTGAGE,99699,2023-01-24,debt_consolidation,7.05,677,6.0,Verified,1
+29700,36 months,10.32,C,< 1 year,RENT,101316,2021-08-06,debt_consolidation,16.48,712,21.0,Source Verified,0
+12800,60 months,8.74,B,4 years,RENT,26668,2022-11-15,debt_consolidation,11.44,715,15.0,Verified,0
+10100,60 months,11.8,B,8 years,RENT,18885,2025-08-19,home_improvement,18.89,776,,Verified,0
+9500,36 months,6.12,A,1 year,MORTGAGE,112770,2023-02-17,credit_card,14.89,758,26.0,Verified,0
